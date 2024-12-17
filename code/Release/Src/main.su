@@ -1,0 +1,7 @@
+../Src/main.c:100:5:Calc_IIR_Left	4	static
+../Src/main.c:116:5:Calc_IIR_Right	4	static
+../Src/main.c:132:6:HAL_I2SEx_TxRxHalfCpltCallback	8	static
+../Src/main.c:157:6:HAL_I2SEx_TxRxCpltCallback	8	static
+../Src/main.c:183:6:SystemClock_Config	112	static
+../Src/main.c:64:5:main	64	static
+../Src/main.c:411:6:Error_Handler	0	static

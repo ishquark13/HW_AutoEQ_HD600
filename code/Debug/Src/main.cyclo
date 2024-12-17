@@ -1,0 +1,11 @@
+../Src/main.c:74:5:main	1
+../Src/main.c:178:5:Calc_IIR	1
+../Src/main.c:194:5:Calc_IIR_Left	1
+../Src/main.c:210:5:Calc_IIR_Right	1
+../Src/main.c:226:6:HAL_I2SEx_TxRxHalfCpltCallback	1
+../Src/main.c:267:6:HAL_I2SEx_TxRxCpltCallback	1
+../Src/main.c:307:6:SystemClock_Config	4
+../Src/main.c:358:13:MX_I2S2_Init	2
+../Src/main.c:390:13:MX_DMA_Init	1
+../Src/main.c:410:13:MX_GPIO_Init	1
+../Src/main.c:535:6:Error_Handler	1
